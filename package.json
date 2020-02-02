@@ -4,9 +4,14 @@
 	"description": "Adds docstrings like, @param to your functions, classes and more.",
 	"version": "1.0.0",
 	"publisher": "Massi",
+	"icon": "icon.png",
 	"license": "SEE LICENSE IN LICENSE",
 	"engines": {
 		"vscode": "^1.41.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/faqima01/JavaScript-Docstrings-VSCode-Extension.git"
 	},
 	"categories": [
 		"Other"
@@ -109,5 +114,6 @@
 		"typescript": "^3.7.5",
 		"vscode-test": "^1.3.0"
 	},
-	"keywords": ["docstrings", "jsdoc", "documentation", "javascript", "commenting"]
+	"keywords": ["docstrings", "jsdoc", "documentation", "javascript", "commenting"],
+	"homepage": "https://github.com/faqima01/JavaScript-Docstrings-VSCode-Extension"
 }
