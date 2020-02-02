@@ -1,8 +1,8 @@
 /**
- * @file Brief description of the file here
- * @author FirstName LastName <optionalEmail@example.com>
- * @copyright FirstName LastName Year
- * @license LicenseHereIfApplicable
+ * @file This belongs to the JavaScript Docstrings vscode extension. The JavaScript Docstrings provides standard documentation for functions, variables, classes and etc.  
+ * @author Massi Faqiri <faqima01@luther.edu>
+ * @copyright Massi Faqiri 2020
+ * @license MIT 
  */
 
 // The module 'vscode' contains the VS Code extensibility API
