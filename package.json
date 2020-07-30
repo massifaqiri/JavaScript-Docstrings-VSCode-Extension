@@ -2,7 +2,7 @@
   "name": "javascript-docstrings",
   "displayName": "JavaScript Docstrings",
   "description": "Adds docstrings like, @param to your functions, classes and more.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "Massi",
   "icon": "icon.png",
   "license": "SEE LICENSE IN LICENSE",
