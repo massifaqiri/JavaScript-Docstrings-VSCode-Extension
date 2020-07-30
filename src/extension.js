@@ -41,7 +41,7 @@ function commandFunction(commandType) {
   switch (commandType) {
     case 'class':
       commentStr = `/**
-* Brief description of the class here!!!
+* Brief description of the class here
 * @extends ParentClassNameHereIfAny
 */`;
       break;
